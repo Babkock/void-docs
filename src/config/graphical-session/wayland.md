@@ -28,6 +28,7 @@ Void Linux currently packages the following Wayland compositors:
 - Cage: a Wayland kiosk
 - River: a dynamic tiling Wayland compositor
 - labwc: a window-stacking compositor, inspired by Openbox
+- Niri: a scrolling-tiling compositor
 - Qtile: a dynamic tiling Wayland compositor (via qtile-wayland)
 
 Some compositors do not depend on any [fonts](./fonts.md), which can cause many
